@@ -1,5 +1,4 @@
-src/test/
-.download_maven.html
+src/test/download_maven.html
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
